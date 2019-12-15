@@ -14,7 +14,7 @@ http://10.26.13.2:801/eportal/?c=Portal&a=logout&callback=dr1576372586702&login_
     ip='xxx.xxx.xxx.xxx'
 
 方法1：cmd 下
-python login.py
+python chyeedu_rz_login.py
 
 简单的方法：配置好login.py 默认 python打开   并添加到开始启动项  
 '''
